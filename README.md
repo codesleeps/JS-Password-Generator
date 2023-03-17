@@ -1,16 +1,19 @@
 # JS-Password-Generator 🤖
 
+https://codesleeps.github.io/JS-Password-Generator/ 🔥
+
 
 ## Bootcamp Challenge - Module 5 🤖
 
 
 
 ### Task 🤖
+
 Create a password generator that uses lower case, upper case, numbers & special characters. Contains at least 8 characters and no more than 128, one character must be selected, once a series of prompts are answered the password is generated. 🧐
 
 
 > All the following used
-- [x] Methods
+- [x] Methods 🔥
 - [x] Functions
 - [x] Arrays
 - [x] Variables
@@ -33,19 +36,24 @@ Really surprising to know that this year ES13 will be out and i'm getting a hamm
 
 ![Screenshot 2023-03-16 at 20 16 40](https://user-images.githubusercontent.com/125808990/225966224-2166e110-eba9-4511-90ac-18cacc8673a5.png)
 
-### Operation 
-Once loaded works fine just follow the alerts/prompts to generate your password upto 128 characters
+### Operation 🎯
 
-Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals 
+Hit the url link at top of this README and hit the red button and follow the alerts/prompts to generate your password upto 128 characters ✅
+
+### Resources
+
+https://www.w3schools.com/js/js_string_methods.asp 
+
+I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals 🔥
 
 - [x] https://www.youtube.com/watch?v=2Ji-clqUYnA&t=18793s 👀 🎯
 
 ## VS Code - Extensions
 
-- [x] Quokka.js
+- [x] Quokka.js 🔥
 - [x] ESLint
-- [x] JavaScript (ES6)
+- [x] JavaScript (ES6) 🔥
 - [x] Prettier
 - [x] Tabnine AI Autocomplete
-- [x] GitHub Copilot
+- [x] GitHub Copilot 🔥
 
