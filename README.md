@@ -37,7 +37,8 @@ Really surprising to know that this year ES13 will be out and i'm getting a hamm
 Once loaded works fine just follow the alerts/prompts to generate your password upto 128 characters
 
 Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals 
-https://www.youtube.com/watch?v=2Ji-clqUYnA&t=18793s 👀 🎯
+
+- [x] https://www.youtube.com/watch?v=2Ji-clqUYnA&t=18793s 👀 🎯
 
 ## VS Code - Extensions
 
