@@ -20,9 +20,10 @@ Create a password generator that uses lower case, upper case, numbers & special 
 
 ### Screenshots 🤖
 
-Who needs modal's with alerts like these mozilla dev edition 🎯
 
 ![Screenshot 2023-03-17 at 16 34 03](https://user-images.githubusercontent.com/125808990/225966038-412bdbc6-6a66-432a-a840-a3067eaffc10.png)
+
+Who needs modal's with alerts like these mozilla dev edition 🎯
 
 ![Screenshot 2023-03-17 at 16 42 32](https://user-images.githubusercontent.com/125808990/225966459-1c4bc864-e71c-4876-9d1e-1717105536ce.png)
 
