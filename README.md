@@ -27,6 +27,8 @@ Who needs modal's with alerts like these mozilla dev edition 🎯
 
 ![Screenshot 2023-03-17 at 16 42 32](https://user-images.githubusercontent.com/125808990/225966459-1c4bc864-e71c-4876-9d1e-1717105536ce.png)
 
+Really surprising to know that this year ES13 will be out and i'm getting a hammering for using ES6 🤬 ES12 str8 at ya soon!
+
 ![Screenshot 2023-03-16 at 20 16 40](https://user-images.githubusercontent.com/125808990/225966224-2166e110-eba9-4511-90ac-18cacc8673a5.png)
 
 ### Operation 
