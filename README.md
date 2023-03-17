@@ -37,10 +37,11 @@ Once loaded works fine just follow the alerts/prompts to generate your password 
 Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s) 👀 🎯
 
 ## VS Code - Extensions
-Quokka.js
-ESLint
-JavaScript (ES6)
-Prettier
-Tabnine AI Autocomplete
-GitHub Copilot
+
+- [x] Quokka.js
+- [x] ESLint
+- [x] JavaScript (ES6)
+- [x] Prettier
+- [x] Tabnine AI Autocomplete
+- [x] GitHub Copilot
 
