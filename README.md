@@ -26,3 +26,7 @@ Create a password generator that uses lower case, upper case, numbers & special 
 
 ![Screenshot 2023-03-16 at 20 16 40](https://user-images.githubusercontent.com/125808990/225966224-2166e110-eba9-4511-90ac-18cacc8673a5.png)
 
+### Operation 
+Once loaded works fine just follow the alerts/prompts to generate your password upto 128 characters
+
+Resources I used for this project [John Smilga - Coding Addict] JavaScript Fundamentals (https://www.youtube.com/watch?v=2Ji-clqUYnA&t=23812s) 👀 🎯
