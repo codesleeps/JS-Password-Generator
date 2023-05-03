@@ -1,5 +1,8 @@
 # JS-Password-Generator 🤖
 
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
+
 https://codesleeps.github.io/JS-Password-Generator/ 🔥
 
 
