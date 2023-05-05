@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
 
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
 
 https://codesleeps.github.io/JS-Password-Generator/ 🔥
 
