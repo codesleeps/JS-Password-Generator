@@ -48,11 +48,11 @@ function generatePassword() {
   return password;
 }
 
-// Function to handle button click event to generate password and display it to the user 🤖
+// Function to handle button click event to generate password and display it in the textarea 🤖
 function handleClick() {
   var password = generatePassword();
   if (password !== "") {
-    alert("Your password is: " + password);
+    document.getElementById("password").value = password; // Display the password in the textarea
   }
 }
 
@@ -60,4 +60,4 @@ function handleClick() {
 document.getElementById("generate").addEventListener("click", handleClick);
 
 
-// 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖 THE END 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖
+// 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖 THE END 🤖🤖🤖🤖🤖🤖🤖🤖��🤖🤖🤖🤖🤖🤖🤖🤖🤖
